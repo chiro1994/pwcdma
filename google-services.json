@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1026827988533",
+    "firebase_url": "https://pwcdma-e9b84.firebaseio.com",
+    "project_id": "pwcdma-e9b84",
+    "storage_bucket": "pwcdma-e9b84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026827988533:android:6a3371d1dfb20d3a",
+        "android_client_info": {
+          "package_name": "pl.chiro.pwcdma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026827988533-s967tsq57erqv4e918d85vgvm2i7lb5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHRYxQVgbXN28HP4y6PouiJhIFwm6UhwQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
