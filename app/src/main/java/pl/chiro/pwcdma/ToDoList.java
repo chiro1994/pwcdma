@@ -9,12 +9,18 @@ public class ToDoList {
     private String id;
     private String listName;
     private String listOwner;
+    private boolean isDone;
 
     public ToDoList() {}
 
     public ToDoList(String listName, String listOwner) {
         this.listName = listName;
         this.listOwner = listOwner;
+    }
+
+    public ToDoList(String listName, boolean isBought) {
+        this.listName = listName;
+        this.isDone = isBought;
     }
 
     public String getId() {
@@ -39,5 +45,13 @@ public class ToDoList {
 
     public void setListOwner(String listOwner) {
         this.listOwner = listOwner;
+    }
+
+    public boolean isDone() {
+        return isDone;
+    }
+
+    public void setDone(boolean done) {
+        isDone = done;
     }
 }

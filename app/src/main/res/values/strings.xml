@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">pwcdma</string>
+    <string name="login">Logowanie</string>
+    <string name="new_list">Nowa lista</string>
+    <string name="list_name">Nazwa listy</string>
+    <string name="task_name">Nazwa zadania</string>
+    <string name="new_task">Nowe zadanie</string>
 </resources>
